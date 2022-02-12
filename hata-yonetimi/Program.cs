@@ -7,20 +7,20 @@ namespace hata_yonetimi
         static void Main(string[] args)
         {
 
-            // try
-            // {
-            //     Console.WriteLine("bir sayı giriniz:");
-            //     int sayı = Convert.ToInt32(Console.ReadLine());
-            //     Console.WriteLine("Girilen sayı :"+ sayı);
-            // }
-            // catch(Exception ex)
-            // {
-            //     Console.WriteLine("Hata :" + ex.Message.ToString());
-            // }
-            // finally
-            // {
-            //     Console.WriteLine("İşlem Tamamlandı!");
-            // }
+             try
+             {
+                 Console.WriteLine("bir sayı giriniz:");
+                 int sayı = Convert.ToInt32(Console.ReadLine());
+                 Console.WriteLine("Girilen sayı :"+ sayı);
+             }
+             catch(Exception ex)
+             {
+                 Console.WriteLine("Hata :" + ex.Message.ToString());
+             }
+             finally
+             {
+                 Console.WriteLine("İşlem Tamamlandı!");
+             }
             
             Console.WriteLine("*******************************");
 
