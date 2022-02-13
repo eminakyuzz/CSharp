@@ -22,6 +22,13 @@ namespace if_else_if
             Console.WriteLine(sonuc);
 
 
+            int sayi1 = 20;
+            int sayi2 = 2;
+
+            int sonuc2 = sayi1 % sayi2;
+            Console.WriteLine("mod :" +sonuc2);
+
+
 
         }
     }
