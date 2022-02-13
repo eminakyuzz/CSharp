@@ -49,20 +49,27 @@ namespace donguler
 
             
             //hackerrank staircase 
-            Console.Write("sayı : ");
-            int sayi = int.Parse(Console.ReadLine());
-            for (int i = 0; i <= sayi; i++)
-            {
-                for (int j = 0; j > i; j--)
-                {
-                    Console.Write(" ");
-                }
-                for (int k = 0; k < i; k++)
-                {
-                    Console.Write("#");
-                }
-                Console.WriteLine();
-            }
+            // Console.Write("sayı : ");
+            // int sayi = int.Parse(Console.ReadLine());
+            // for (int i = 0; i <= sayi; i++)
+            // {
+            //     for (int j = 0; j > i; j--)
+            //     {
+            //         Console.Write(" ");
+            //     }
+            //     for (int k = 0; k < i; k++)
+            //     {
+            //         Console.Write("#");
+            //     }
+            //     Console.WriteLine();
+            // }
+
+
+
+            
+
+
+
 
         }
     }
