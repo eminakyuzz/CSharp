@@ -65,6 +65,40 @@ namespace donguler
             // }
 
 
+            //While loop
+            // 1'den başlayarak consoledan gelen sayı dahil ortalama hesaplama ve console yazdırma  
+
+            Console.Write("Limit sayıyı girin : ");
+            int sayi = int.Parse(Console.ReadLine());
+            int sayac = 1;
+            int toplam = 0;            
+            while (sayac <= sayi)
+            {
+                toplam += sayac ;
+                sayac ++ ;
+            }
+            Console.WriteLine(toplam);
+            Console.WriteLine(toplam/sayi);
+
+
+            //a'dan z'ye kadar tüm harflerin console yazdırımı
+            char character = 'a';
+
+            while (character <= 'z')
+            {
+                Console.WriteLine(character);
+                character ++ ;
+            }
+
+            Console.WriteLine("**************Foreach*****************");
+
+
+            string[] arabalar = {"renault","mercedes","toyota","opel",};
+            foreach (var item in arabalar)
+            {
+                Console.WriteLine(item);
+            }
+
 
             
 
