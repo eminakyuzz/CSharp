@@ -1,0 +1,16 @@
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\bin\Debug\net5.0\array-sınıfı-metotları.exe
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\bin\Debug\net5.0\array-sınıfı-metotları.deps.json
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\bin\Debug\net5.0\array-sınıfı-metotları.runtimeconfig.json
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\bin\Debug\net5.0\array-sınıfı-metotları.runtimeconfig.dev.json
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\bin\Debug\net5.0\array-sınıfı-metotları.dll
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\bin\Debug\net5.0\ref\array-sınıfı-metotları.dll
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\bin\Debug\net5.0\array-sınıfı-metotları.pdb
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.csproj.AssemblyReference.cache
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.AssemblyInfoInputs.cache
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.AssemblyInfo.cs
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.csproj.CoreCompileInputs.cache
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.dll
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\ref\array-sınıfı-metotları.dll
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.pdb
+C:\Users\akyuz\Documents\CSharp\array-sınıfı-metotları\obj\Debug\net5.0\array-sınıfı-metotları.genruntimeconfig.cache
