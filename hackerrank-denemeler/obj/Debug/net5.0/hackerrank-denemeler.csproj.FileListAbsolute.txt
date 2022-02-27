@@ -1,0 +1,16 @@
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\bin\Debug\net5.0\hackerrank-denemeler.exe
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\bin\Debug\net5.0\hackerrank-denemeler.deps.json
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\bin\Debug\net5.0\hackerrank-denemeler.runtimeconfig.json
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\bin\Debug\net5.0\hackerrank-denemeler.runtimeconfig.dev.json
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\bin\Debug\net5.0\hackerrank-denemeler.dll
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\bin\Debug\net5.0\ref\hackerrank-denemeler.dll
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\bin\Debug\net5.0\hackerrank-denemeler.pdb
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.csproj.AssemblyReference.cache
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.AssemblyInfoInputs.cache
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.AssemblyInfo.cs
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.csproj.CoreCompileInputs.cache
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.dll
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\ref\hackerrank-denemeler.dll
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.pdb
+C:\Users\akyuz\Documents\CSharp\hackerrank-denemeler\obj\Debug\net5.0\hackerrank-denemeler.genruntimeconfig.cache
