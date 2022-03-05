@@ -47,5 +47,7 @@ namespace metot
             deger2+=1;
             return  deger1+deger2;
         }
+
+        
     }
 }
