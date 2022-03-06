@@ -57,7 +57,7 @@ namespace recursive_extension_metotlar
     }
     public class Islemler
     {
-        public int Expo(int sayi, int üs) //faktöriyel
+        public int Expo(int sayi, int üs) //üs alma  ---- rekürsif metot
         {
             if (üs<2)
             {
