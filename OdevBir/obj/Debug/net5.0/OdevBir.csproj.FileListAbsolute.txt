@@ -1,0 +1,16 @@
+C:\Users\akyuz\Documents\CSharp\OdevBir\bin\Debug\net5.0\OdevBir.exe
+C:\Users\akyuz\Documents\CSharp\OdevBir\bin\Debug\net5.0\OdevBir.deps.json
+C:\Users\akyuz\Documents\CSharp\OdevBir\bin\Debug\net5.0\OdevBir.runtimeconfig.json
+C:\Users\akyuz\Documents\CSharp\OdevBir\bin\Debug\net5.0\OdevBir.runtimeconfig.dev.json
+C:\Users\akyuz\Documents\CSharp\OdevBir\bin\Debug\net5.0\OdevBir.dll
+C:\Users\akyuz\Documents\CSharp\OdevBir\bin\Debug\net5.0\ref\OdevBir.dll
+C:\Users\akyuz\Documents\CSharp\OdevBir\bin\Debug\net5.0\OdevBir.pdb
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.csproj.AssemblyReference.cache
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.AssemblyInfoInputs.cache
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.AssemblyInfo.cs
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.csproj.CoreCompileInputs.cache
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.dll
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\ref\OdevBir.dll
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.pdb
+C:\Users\akyuz\Documents\CSharp\OdevBir\obj\Debug\net5.0\OdevBir.genruntimeconfig.cache
