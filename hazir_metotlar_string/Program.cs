@@ -18,7 +18,7 @@ namespace hazir_metotlar_string
 
 
             //Concat -- karakter serisinin sonuna istenildiği kadar değer atanabilir
-            Console.WriteLine(string.Concat(degisken," Merhaba"));
+            Console.WriteLine(string.Concat(degisken,"Merhaba"));
             
 
             //Compare--kıyaslama büyük küçük harfe gore 1 || 0 değerlerini alır , CompareTo--degiskenleri karakter sayılarına göre kıyaslar

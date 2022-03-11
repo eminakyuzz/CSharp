@@ -1,0 +1,16 @@
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\bin\Debug\net5.0\hazir_metotlar-datetime_math.exe
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\bin\Debug\net5.0\hazir_metotlar-datetime_math.deps.json
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\bin\Debug\net5.0\hazir_metotlar-datetime_math.runtimeconfig.json
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\bin\Debug\net5.0\hazir_metotlar-datetime_math.runtimeconfig.dev.json
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\bin\Debug\net5.0\hazir_metotlar-datetime_math.dll
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\bin\Debug\net5.0\ref\hazir_metotlar-datetime_math.dll
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\bin\Debug\net5.0\hazir_metotlar-datetime_math.pdb
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.csproj.AssemblyReference.cache
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.AssemblyInfoInputs.cache
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.AssemblyInfo.cs
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.dll
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\ref\hazir_metotlar-datetime_math.dll
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.pdb
+C:\Users\akyuz\documents\csharp\hazir_metotlar-datetime_math\obj\Debug\net5.0\hazir_metotlar-datetime_math.genruntimeconfig.cache
