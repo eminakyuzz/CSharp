@@ -39,7 +39,7 @@ namespace hazir_metotlar_string
             Console.WriteLine(degisken.IndexOf("CS"));
             Console.WriteLine(degisken.IndexOf("x"));
 
-            //Insert -- istenilen indexten başlayarak karakter(ler eklenilebilir)
+            //Insert -- istenilen indexten başlayarak karakter(ler) eklenilebilir
             Console.WriteLine(degisken.Insert(0,"Merhaba ! "));
 
             //LastIndexOf --girilen değerin son indexini getirir
@@ -72,6 +72,23 @@ namespace hazir_metotlar_string
             Console.WriteLine(degisken.Substring(4));
             Console.WriteLine(degisken.Substring(4,6));
             
+
+            Console.Write("Bir kelime giriniz: ");
+            string kelime = Console.ReadLine();
+            string kelime_ters = "";
+            for (int i = kelime.Length-1; i >= 0; i--)
+            {
+                kelime_ters += kelime[i];
+            }
+            Console.WriteLine("\nKelimenin tersten yazılısı = " + kelime_ters);
+            if (kelime_ters == kelime)
+            {
+                Console.WriteLine("\nGirilen kelime Palindromik bir kelimedir.");
+            }
+            else
+            {
+                Console.WriteLine("\nGirilen kelime Palindromik bir kelime değildir.");
+            }
 
 
 

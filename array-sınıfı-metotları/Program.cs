@@ -4,7 +4,7 @@ namespace array_sınıfı_metotları
 {
     class Program
     {
-        static void Main(string[] args)
+        static async void Main(string[] args)
         {
             //Sort ---sıralama
 
@@ -55,6 +55,43 @@ namespace array_sınıfı_metotları
 
             
 
+            string[] liste = new string[]{"elma", "armut", "muz","kiwi"};
+            Array.Reverse(liste);
+            foreach (var item in liste)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            // String metin;
+            // string ters_metin ="";
+            // Console.Write("Tersten Yazılacak Metni Giriniz = ");
+            // metin= Console.ReadLine();
+            // for (int i = 0; i  <= metin.Length - 1; i++)
+            // {
+            //    // Console.Write(metin[metin.Length - i - 1]); //ekrana yazdıran kod
+
+            //     ters_metin(metin[metin.Length - i - 1]);
+
+
+            // }
+
+            Console.Write("Bir kelime giriniz: ");
+            string kelime = Console.ReadLine();
+            string kelime_ters = "";
+            for (int i = kelime.Length-1; i >= 0; i--)
+            {
+                kelime_ters += kelime[i];
+            }
+            Console.WriteLine("\nKelimenin tersten yazılısı = " + kelime_ters);
+            if (kelime_ters == kelime)
+            {
+                Console.WriteLine("\nGirilen kelime Palindromik bir kelimedir.");
+            }
+            else
+            {
+                Console.WriteLine("\nGirilen kelime Palindromik bir kelime değildir.");
+            }
 
 
 
