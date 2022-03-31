@@ -1,0 +1,16 @@
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\bin\Debug\net5.0\static_sinif_ve_uyeler.exe
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\bin\Debug\net5.0\static_sinif_ve_uyeler.deps.json
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\bin\Debug\net5.0\static_sinif_ve_uyeler.runtimeconfig.json
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\bin\Debug\net5.0\static_sinif_ve_uyeler.runtimeconfig.dev.json
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\bin\Debug\net5.0\static_sinif_ve_uyeler.dll
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\bin\Debug\net5.0\ref\static_sinif_ve_uyeler.dll
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\bin\Debug\net5.0\static_sinif_ve_uyeler.pdb
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.csproj.AssemblyReference.cache
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.AssemblyInfoInputs.cache
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.AssemblyInfo.cs
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.csproj.CoreCompileInputs.cache
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.dll
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\ref\static_sinif_ve_uyeler.dll
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.pdb
+C:\Users\akyuz\Documents\CSharp\static_sinif_ve_uyeler\obj\Debug\net5.0\static_sinif_ve_uyeler.genruntimeconfig.cache

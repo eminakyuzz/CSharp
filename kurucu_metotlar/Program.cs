@@ -6,6 +6,11 @@ namespace kurucu_metotlar
     {
         static void Main(string[] args)
         {
+
+            foreach (var item in collection)
+            {
+                
+            }
             Console.WriteLine("*********Çalışan 1*******");
             Calisan calisan1 = new Calisan();
             calisan1.Ad="Ayşe"; 
@@ -64,6 +69,7 @@ namespace kurucu_metotlar
             Console.WriteLine("Çalışan Departmanı :{0}",Departman);
 
         }
+        
     }
     
     
