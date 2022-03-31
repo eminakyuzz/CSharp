@@ -1,0 +1,16 @@
+C:\Users\akyuz\Documents\CSharp\csharp_enum\bin\Debug\net5.0\csharp_enum.exe
+C:\Users\akyuz\Documents\CSharp\csharp_enum\bin\Debug\net5.0\csharp_enum.deps.json
+C:\Users\akyuz\Documents\CSharp\csharp_enum\bin\Debug\net5.0\csharp_enum.runtimeconfig.json
+C:\Users\akyuz\Documents\CSharp\csharp_enum\bin\Debug\net5.0\csharp_enum.runtimeconfig.dev.json
+C:\Users\akyuz\Documents\CSharp\csharp_enum\bin\Debug\net5.0\csharp_enum.dll
+C:\Users\akyuz\Documents\CSharp\csharp_enum\bin\Debug\net5.0\ref\csharp_enum.dll
+C:\Users\akyuz\Documents\CSharp\csharp_enum\bin\Debug\net5.0\csharp_enum.pdb
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.csproj.AssemblyReference.cache
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.AssemblyInfoInputs.cache
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.AssemblyInfo.cs
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.csproj.CoreCompileInputs.cache
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.dll
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\ref\csharp_enum.dll
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.pdb
+C:\Users\akyuz\Documents\CSharp\csharp_enum\obj\Debug\net5.0\csharp_enum.genruntimeconfig.cache
